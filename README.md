@@ -20,7 +20,7 @@ Working
 
     ```
     $ cd /path/to/your/projects/folder
-    $ git clone git@github.com:your_github_username/your_repo_name.wiki.git
+    $ git clone git@github.com:your_github_username/your_repo_name.wiki.git # notice that ".wiki."
     $ cd your_repo_name.wiki
     $ mkdir images # any folder name would work
     $ # copy the image that you want to use in GitHub Wiki into this newly created 'images' folder
