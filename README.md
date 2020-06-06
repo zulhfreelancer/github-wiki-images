@@ -4,7 +4,7 @@ The GitHub wiki web editor doesn't allow image upload. The modal window only sup
 
 But, what if we want to host the images on GitHub without relying on 3rd party services? This is my experiment to test if it's possible to upload images directly to wiki's repository.
 
-## Status
+## Result
 
 Working & doable. See the steps below.
 
